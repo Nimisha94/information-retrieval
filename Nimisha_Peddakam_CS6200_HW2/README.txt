@@ -1,0 +1,2 @@
+- Code implementing the Pagerank algorithm is in pagerank.py file
+- Run it using the command python pagerank.py <Textfilepath which has the graph>

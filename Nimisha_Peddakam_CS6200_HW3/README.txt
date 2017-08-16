@@ -1,0 +1,1 @@
+The code for solving the assignment is present in Task1.py Unigrams.py Bigrams.py and Trigrams.py. URL_list is the list of the URLs which the Task1.py file expects to download the wikipedia articles.
